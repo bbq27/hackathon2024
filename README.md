@@ -1,10 +1,8 @@
 # Queer Hunt 
+![image](https://github.com/bbq27/hackathon2024/assets/133260826/f1b7edf2-8875-44ab-b7db-d746c79f2ea9)
 
 ## Overview
 Queer Hunt is a location-based social connection app that brings together the LGBTQ+ community. The app combines elements of exploration and inclusivity, allowing users to discover and connect with like-minded individuals nearby. 
-
-![Hackathon 2024](https://github.com/bbq27/hackathon2024/assets/133260826/dcc3e679-49e2-4173-94ed-d72b62887f77)
-
 
 ## Features
 - Location-Based Matching
